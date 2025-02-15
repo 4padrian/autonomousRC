@@ -33,7 +33,7 @@ Built-In LED for Testing
 **LiPo Battery Ace 2S 7.4V 450mAh 30C**  
 
 Project Diagram  
-<img="https://github.com/4padrian/autonomousRC/blob/main/project_images/project_diagram.jpg" "width=600">
+<img src="https://github.com/4padrian/autonomousRC/blob/main/project_images/project_diagram.jpg" "width=600">
 
 RC Assembled  
 ![RC_Assembled](https://github.com/4padrian/autonomousRC/blob/main/project_images/assembly-9.jpg|width=600)
