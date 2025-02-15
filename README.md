@@ -43,7 +43,7 @@ More images and details can be found in **/project_images** folder.
 **Project description and details:**
 
 The platform on which we will mount all the electronic components is a non-functional Tyco Mutator 9.6V Turbo from 1996. I managed to salvage its two DC motors. This remote-controlled car was also featured in the 1997 movie Home Alone 3.
-![tyco_mutator](https://github.com/4padrian/autonomousRC/blob/main/project_images/tyco_mutator.jpg)
+![tyco_mutator](https://github.com/4padrian/autonomousRC/blob/main/project_images/tyco_mutator.JPG)
 
 **Accessing the DC Motors**  
 The first step was to access the DC motors inside the car by removing all unnecessary components that won’t be used in this project. These include the car body, rear wing, antenna, and front bumper.  The rotating gears are connected to each other on both sides of the car chassis. The DC motor's gear connects with these gears, driving both wheels on that side of the car. The same mechanism applies to the other side, where the second motor is installed.
@@ -65,7 +65,7 @@ Below, you can see that almost all electronic components have been installed. Th
 - Three in the front  
   ![assembly-7](https://github.com/4padrian/autonomousRC/blob/main/project_images/assembly-7.jpg)
 
-Dupont connector cables were used to interconnect all components:  
+**Dupont connector cables were used to interconnect all components:**  
 - The HC-SR04 ultrasonic sensors were connected to the Arduino Mega 2560 for signal transmission and reception. For power, they were linked to the power rails on the Breadboard.  
 - The L298N dual H-bridge motor driver was connected to the Arduino Mega 2560 to receive the signals that control the two DC motors (PWM and direction signals).  
 - The LiPo 7.4V battery was connected to the L298N motor driver, which in turn was linked to the Breadboard to power the entire circuit using the 5V output pin and GND from the motor driver.
